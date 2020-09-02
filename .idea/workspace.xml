@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6bb17f-408a-4e74-901c-8e440554c2dd" name="Default Changelist" comment="" />
+    <list default="true" id="1a6bb17f-408a-4e74-901c-8e440554c2dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gac40eGd3p9WsnmJwsqA5xnom9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,7 +42,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -26,6 +55,15 @@
       <option name="presentableId" value="Default" />
       <updated>1598355948244</updated>
       <workItem from="1598355949361" duration="155000" />
+      <workItem from="1598356131323" duration="2780000" />
+      <workItem from="1598423727458" duration="5458000" />
+      <workItem from="1598449534479" duration="6970000" />
+      <workItem from="1598531397803" duration="11509000" />
+      <workItem from="1598611871993" duration="6945000" />
+      <workItem from="1598633879075" duration="2249000" />
+      <workItem from="1598884148117" duration="4565000" />
+      <workItem from="1599052921072" duration="721000" />
+      <workItem from="1599053716236" duration="4371000" />
     </task>
     <servers />
   </component>
@@ -34,5 +72,41 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598561022051">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="718" y="320" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1050/0.-1080.1920.1080/-1080.-363.1080.1920/1920.-1080.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1598561022051" />
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598449322587">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1050/0.-1080.1920.1080/-1080.-363.1080.1920/1920.-1080.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1598449322587" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598461853383">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1050/0.-1080.1920.1080/-1080.-363.1080.1920/1920.-1080.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1598461853383" />
+    <state x="264" y="756" width="1736" height="866" maximized="true" key="DiffContextDialog" timestamp="1599060674158">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="264" y="756" width="1736" height="866" maximized="true" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1080/-1080.-363.1080.1920/0.-1080.1920.1080/1920.-1080.1920.1080@0.0.1920.1050" timestamp="1599060674158" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/1920.0.1920.1050/0.-1080.1920.1080/-1080.-363.1080.1920/1920.-1080.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1598619262567" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1598891025892">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080/-1080.-363.1080.1920/0.-1080.1920.1080/1920.-1080.1920.1080@0.0.1920.1050" timestamp="1598891025892" />
+    <state x="461" y="170" key="SettingsEditor/1920.0.1920.1050/0.-1080.1920.1080/-1080.-363.1080.1920/1920.-1080.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1598357105669" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598634886163">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1050/0.-1080.1920.1080/-1080.-363.1080.1920/1920.-1080.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1598634886163" />
+    <state x="674" y="233" width="571" height="584" key="find.popup" timestamp="1599060991626">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="674" y="233" width="571" height="584" key="find.popup/0.0.1920.1050/1920.0.1920.1080/-1080.-363.1080.1920/0.-1080.1920.1080/1920.-1080.1920.1080@0.0.1920.1050" timestamp="1599060991626" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1598634458313">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.-1080.1920.1080/-1080.-363.1080.1920/1920.-1080.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1598634458313" />
   </component>
 </project>
